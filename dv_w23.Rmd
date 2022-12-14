@@ -11,7 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Data Visualization
 
-For reference, you will want to check out the Advanced R book (<https://adv-r.hadley.nz/>), as well as the Javascript for R book (<https://book.javascript-for-r.com/>).
+For reference, your required readings are the **Advanced R** book (<https://adv-r.hadley.nz/>), as well as the Javascript for R book (<https://book.javascript-for-r.com/>).
+
+Data visualization is the primary avenue by which we communicate research findings. 
 
 
 
